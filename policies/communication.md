@@ -2,7 +2,7 @@
 
 ## Channels
 
-We have two communciation channels right now:
+We have two communication channels right now:
 
 * [Zulip](https://cudem.zulipchat.com): The gathering place, and often the first point
   of contact with our community.
