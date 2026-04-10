@@ -12,6 +12,7 @@ We have two communciation channels right now:
   * Encourage, but don't push, folks to move GitHub stuff to GitHub.
     Offer our time to help them open their first issue on a video call.
   * When syncing information to GitHub, always post the link back to Zulip.
+  * When syncing information to GitHub, credit the original reporter (with permission).
 * [GitHub](https://github.com/continuous-dems/): The project management space.
   * We should be able to see all open bug reports and feature requests here, including the
     detail necessary for contributors to start work on them, when possible.
